@@ -1,0 +1,23 @@
+.devs{
+    width: 1100px;
+    margin: 100px auto;
+}
+a.btn.btn-info.btn-sm {
+    color: #fff;
+}
+#devs_single_view .modal-content img{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border: 10px solid #fff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
+
+#devs_single_view .modal-content .devs-info .devs-info-name h3{
+    text-align: center;
+    margin: 10px 0px;
+    font-weight: 700;
+}
